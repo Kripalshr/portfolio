@@ -1,6 +1,6 @@
-import Home from './home';
-import About from './about';
-import Contact from './contact';
-import Projects from './Projects';
+import Home from "../pages/home";
+import About from '../pages/about';
+import Contact from '../pages/contact';
+import Projects from '../pages/Projects';
 
 export { Home, About, Contact, Projects };
